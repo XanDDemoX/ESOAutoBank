@@ -1,0 +1,6 @@
+## Title: Auto Bank v0.0.1
+## Version 0.0.1
+## APIVersion: 100011
+## SavedVariables: Autobank_SavedVariables
+
+Autobank.lua
