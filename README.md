@@ -21,9 +21,9 @@ Usage
 
 * /ab [amount] 	- Sets the carry gold amount. The difference will be deposited into the bank upon each visit.
 * /ab 1000		- Example usage
-* /ab on  		- Enable automatic equipped weapons recharging.
+* /ab on  		- Enable automatic banking.
 * /ab +
-* /ab off 		- Disable automatic equipped weapons recharging.
+* /ab off 		- Disable automatic banking.
 * /ab -
 
 DISCLAIMER
