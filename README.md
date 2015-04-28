@@ -4,7 +4,7 @@ A simple gold deposit addon for The Elder Scrolls Online which deposits any gold
 Installation
 =============
 
-Place the "Recharge" folder in your addons folder:
+Place the "Autobank" folder in your addons folder:
 
 "Documents\Elder Scrolls Online\live\Addons"
 
