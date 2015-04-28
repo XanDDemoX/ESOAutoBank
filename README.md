@@ -3,6 +3,9 @@ A simple gold deposit addon for The Elder Scrolls Online which deposits any gold
 
 Installation
 =============
+1. Download Zip by clicking the "Download Zip" button on the right
+2. Open Zip and go into the folder named "EsoAutoBank-master"
+3. Extract or copy the "Autobank" folder into your addons folder:
 
 Place the "Autobank" folder in your addons folder:
 
