@@ -51,7 +51,6 @@ local function Initialise()
 		elseif arg ~= nil and arg ~= "" then
 		
 			local num = tonumber(arg)
-			d(num)
 			if num ~= nil then
 				_settings.carryMoney = num
 				d(_prefix.."Carry gold set to "..tostring(num))
