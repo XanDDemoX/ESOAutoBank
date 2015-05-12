@@ -7,8 +7,6 @@ Installation
 2. Open Zip and go into the folder named "EsoAutoBank-master"
 3. Extract or copy the "Autobank" folder into your addons folder:
 
-Place the "Autobank" folder in your addons folder:
-
 "Documents\Elder Scrolls Online\live\Addons"
 
 "Documents\Elder Scrolls Online\liveeu\Addons"
